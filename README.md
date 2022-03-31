@@ -1,5 +1,6 @@
 # spam.w
-$Spam.w
+
+
 
 $pkg update
 
